@@ -1,4 +1,4 @@
-# MIT OS (operating system) lectures
+# MIT OS (operating system) lectures 6.1810 2024
 
 ## Resources
 
